@@ -1,0 +1,6 @@
+{
+  "name": "JanVoice AI",
+  "description": "An iOS 26 glassmorphic AI platform that helps Members of Parliament prioritize development projects using citizen feedback and AI.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
